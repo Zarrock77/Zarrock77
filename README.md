@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Jean-Jacques Delegue's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Zarrock77/github-readme-stats)
+
 <!--
 **Zarrock77/Zarrock77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
