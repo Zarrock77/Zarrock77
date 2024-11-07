@@ -1,18 +1,13 @@
+<div align="center">
+
 ## Hi there 👋
 
-[![Jean-Jacques Delegue's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zarrock77)](https://github.com/Zarrock77/github-readme-stats)
+I'm Jean-Jacques Delegue, a student at Epitech. Here are my GitHub stats:
 
-<!--
-**Zarrock77/Zarrock77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zarrock77&show_icons=true&theme=radical)](https://github.com/Zarrock77/github-readme-stats)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zarrock77&layout=compact&theme=radical)](https://github.com/Zarrock77/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+*Note: These stats do not include contributions made to organizations.*
